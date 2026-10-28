@@ -1,0 +1,11 @@
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/bin/Debug/net10.0/TwoPowerSeven.deps.json
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/bin/Debug/net10.0/TwoPowerSeven.dll
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/bin/Debug/net10.0/TwoPowerSeven.pdb
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.GeneratedMSBuildEditorConfig.editorconfig
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.AssemblyInfoInputs.cache
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.AssemblyInfo.cs
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.csproj.CoreCompileInputs.cache
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.dll
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/refint/TwoPowerSeven.dll
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/TwoPowerSeven.pdb
+/home/batuhan/RiderProjects/TwoPowerSeven/TwoPowerSeven/obj/Debug/net10.0/ref/TwoPowerSeven.dll
