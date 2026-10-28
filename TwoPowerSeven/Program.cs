@@ -64,4 +64,5 @@ namespace ToPowSeven
             return Base128String.ToString();
         }
     }
+    
 }
